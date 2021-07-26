@@ -37,7 +37,7 @@ airports.sort_values(['lat', 'lon'], ascending = False)
 
 # ## Easternmost Airport
 
-# ### Some sources say that easternmost poin of the United States is in Alaska, while others -- in Maine. I had hard time determining
+
 
 # In[66]:
 
